@@ -1,0 +1,1 @@
+from .vos_predictor import VosPredictor

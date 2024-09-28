@@ -1,0 +1,7 @@
+path: ../data/preprocessed/frame
+train: 'train/images'
+val: 'val/images'
+
+# class names
+names: 
+  0: 'mouse'

@@ -1,0 +1,7 @@
+path: ../data/preprocessed/e2vid
+train: 'train/images'
+val: 'val/images'
+
+# class names
+names: 
+  0: 'mouse'

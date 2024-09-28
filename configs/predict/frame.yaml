@@ -1,0 +1,22 @@
+common:
+  metadata_path: ./data/orig/dataset_info.csv
+  annotation_path: ./data/orig/annotation.json
+  data_root_frame: ./data/preprocessed/frame
+  data_root_e2vid: ./data/preprocessed/e2vid
+  data_format: frame
+
+gray_detector:
+  yolo_path: ./models/yolo_frame.pt
+
+e2vid_detector:
+  yolo_path: ./models/yolo_e2vid.pt
+
+tracker:
+  max_age: 1
+  min_hits: 3
+  iou_threshold: 0.3
+
+NMS:
+  iou_threshold: 0.1
+
+output_dir: ./output/track_results/frame

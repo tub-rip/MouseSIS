@@ -1,0 +1,13 @@
+h5py
+pandas
+absl-py
+tqdm
+shapely
+opencv-python  
+numpy
+Pillow
+ultralytics
+transformers
+matplotlib
+event-vision-library
+pycocotools
