@@ -6,6 +6,8 @@
 
 This is the official repository for [**MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice**](https://arxiv.org/pdf/2409.03358), accepted at the **Workshop on Neuromorphic Vision** in conjunction with **ECCV 2024** by [Friedhelm Hamann](https://friedhelmhamann.github.io/), [Hanxiong Li](), [Paul Mieske](https://scholar.google.de/citations?user=wQPmm6kAAAAJ&hl=de), [Lars Lewejohann](https://www.vetmed.fu-berlin.de/einrichtungen/vph/we11/mitarbeitende/lewejohann_lars3/index.html) and [Guillermo Gallego](https://sites.google.com/view/guillermogallego).
 
+👀 **Currently, the test set of this dataset is not available in preparation of a challenge (see split in the paper Tab. 2). You can still run our baseline method on the validation set and we'll soon provide access to an evaluation server. Stay tuned or in case of questions contact us!**
+
 <p align="center">
   <img src="./image/visualization_seq12_0003.jpg" alt="MouseSIS Visualization" width="600"/>
 </p>
