@@ -17,7 +17,7 @@ Here are the results for the [SIS Challenge](https://www.codabench.org/competiti
 ### 🥉 3rd Place - mysterypeople (HOTA: 0.54)
 **Team:** Hongxiang Huang¹, Yuhao Yan², Hongwei Ren¹, Xiaopeng Lin¹, Yulong Huang¹, Bojun Cheng¹  
 **Institutions:**  
-¹Hong Kong University of Science and Technology  
+¹Hong Kong University of Science and Technology (Guangzhou)
 ²Sun Yat-sen University
 
 ---
