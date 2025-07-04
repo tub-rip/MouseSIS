@@ -3,6 +3,7 @@
 Here are the results for the [SIS Challenge](https://www.codabench.org/competitions/5600/) hosted in conjunction with the [CVPR 2025 Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2025/). The challenge had 63 participants, with 14 leaderboard entries. The methods of the top-5 teams were summarized in [a technical report](). Here is a list of the top-5 teams, who submitted factsheets:
 
 ### 🏆 **1st Place** - **emilmed** (HOTA: 0.62)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-blue?logo=github)](https://github.com/medem23/MouseSISChallenge)  
 **Team:** Emil Mededovic, Fabian Gülhan, Yuli Wu, Johannes Stegmaier  
 **Institution:** RWTH Aachen University
 
