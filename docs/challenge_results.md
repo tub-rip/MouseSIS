@@ -10,6 +10,7 @@ Here are the results for the [SIS Challenge](https://www.codabench.org/competiti
 ---
 
 ### 🥈 **2nd Place** - **enidx** (HOTA: 0.57)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-blue?logo=github)](https://github.com/delCayr/MouseSIS-Challenge/)  
 **Team:** Jing He, Yiqing Wang, Kexin Zhang, Lingling Li, Licheng Jiao, Mengru Ma  
 **Institution:** Xidian University  
 
